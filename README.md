@@ -1,37 +1,12 @@
-# CDK-New-Features
+# CDK新特性仓库简介
 
-#### 介绍
-CDK 新版本特性介绍
+## 概要
 
-#### 软件架构
-使用每个目录进行新版本的内容保存，markdown文件作为展示
+![](剑池CDK.png)
+剑池CDK以极简开发为理念，是专业为IoT应用开发打造的集成开发环境。在不改变传统MCU应用开发习惯的基础上，全面接入云端开发资源，并结合图形化的OSTracer、Profiling等调试分析工具，加速用户产品开发。
 
+关于剑池CDK概要，[点击这里](https://occ.t-head.cn/product?id=3864775351511420928&type=soft) 获取更多。
 
-#### 安装教程
+## 关于本仓库
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+本仓库是用来对CDK新版本进行特性简介的；每个版本按照目录去划分，目录中存在新版本宣发的资源。
