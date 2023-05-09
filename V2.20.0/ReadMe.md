@@ -1,10 +1,10 @@
-# CDK V2.20版本特性介绍
+# CDK V2.20.0版本特性介绍
 
-## ！！~ 亲们，CDK V2.20版本发布啦 ~！！
+## CDK V2.20.0版本来啦 ~！！
 
-[![](CDK版本.png)]()
+[![](CDK版本.png)](https://occ.t-head.cn/community/download?id=4176310636235526144)
 
-经过剑池CDK开发程序猿小哥哥们的努力，[CDK V2.20]() 
+经过剑池CDK开发程序猿小哥哥们的努力，[CDK V2.20.0](https://occ.t-head.cn/community/download?id=4176310636235526144) 
 终于得以和开发者见面啦，本次CDK的更新，不仅对V2.18.2版本的使用反馈做了改进，
 还对与一些常用功能做了效率提升，下面我们来了解部分改进吧！
 
@@ -13,14 +13,14 @@ Flash烧写是CDK调试的重要功能，烧写效率的提升能够显著改善
 为此，CDK针对Flash烧写流程，进行了路径优化，让使用T-Head玄铁CPU的Flash烧写速度平均提升30%；
 并且，针对Flash烧写进度条信息不准确的反馈，也做了改进，让CDK中的烧写更加准确、流畅；
 
-以下是我们针对V2.18.2和V2.20烧写效率的对比：
+以下是我们针对V2.18.2和V2.20.0烧写效率的对比：
 
-| 验证工程名                        | V2.18.2烧写时间 | V2.20烧写时间 | 提升百分比 |
-|------------------------------|-------------|-----------|-------|
-| CB2201-Rhino                 | 7.4s        | 5.0s      | 32.3% |
-| ch2601_PlayerDemo            | 55.3s       | 35.4s     | 36.0% |
-| PHY6220_mesh_light_node_demo | 37.6s       | 29.6s     | 21.3% |
-| 总计                           | 100s        | 70s       | 30%   |
+| 验证工程名                        | V2.18.2烧写时间 | V2.20.0烧写时间 | 提升百分比 |
+|------------------------------|-------------|-------------|-------|
+| CB2201-Rhino                 | 7.4s        | 5.0s        | 32.3% |
+| ch2601_PlayerDemo            | 55.3s       | 35.4s       | 36.0% |
+| PHY6220_mesh_light_node_demo | 37.6s       | 29.6s       | 21.3% |
+| 总计                           | 100s        | 70s         | 30%   |
 
 当然，具体烧写速度还跟具体的硬件相关，
 这里以一个典型MCU的烧写进度展示做一个动态对比，方便大家直观感受：
@@ -128,7 +128,7 @@ Build完成以后，打开Map视图，增加了各个存储单元用量百分比
 
 ### 欢迎试用CDK新版本
 其它更新和改进，参见 
-[ReleaseNote](https://occ-oss-prod.oss-cn-hangzhou.aliyuncs.com/resource//1669967918141/ReleaseNote.txt)
-中CDK-Release V2.20章节的详细介绍。
-欢迎感兴趣的厂商或个人 [点击这里](https://occ.t-head.cn/community/download?id=4119141468164132864) 
-获取CDK V2.20版本下载页。
+[ReleaseNote](https://occ-oss-prod.oss-cn-hangzhou.aliyuncs.com/resource//1683598147004/ReleaseNote.txt)
+中CDK-Release V2.20.0章节的详细介绍。
+欢迎感兴趣的厂商或个人 [点击这里](https://occ.t-head.cn/community/download?id=4176310636235526144) 
+获取CDK V2.20.0版本下载页。
