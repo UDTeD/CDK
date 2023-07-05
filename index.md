@@ -8,6 +8,9 @@
 
 关于剑池CDK概要，[点击这里](https://occ.t-head.cn/product?id=3864775351511420928&type=soft) 获取更多。
 
+[点击这里看md文件](V2.20.0/ReadMe.md)查看V2.20.0版本新特性
+[点击这里看index文件](V2.20.0/index.md)查看V2.20.0版本新特性
+
 ## 关于本仓库
 
 ![](CDK.gif)
